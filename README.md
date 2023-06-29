@@ -1,8 +1,4 @@
 # Rice-leaf-disease-detection
-Rice Leaf Disease Detection is an innovative project aimed at automating the identification and classification of diseases affecting rice plants. By harnessing the capabilities of computer vision and deep learning algorithms, this project provides an efficient and accurate solution for detecting and managing diseases in rice crops.
-
-
-# About
 This project provides a solution for automated detection and classification of diseases affecting rice plants using computer vision and deep learning techniques. It includes source code for the backend using FastAPI and TensorFlow, as well as a PyQT-based frontend for user interaction.
 
 
