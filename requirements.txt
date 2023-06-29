@@ -1,0 +1,7 @@
+pillow
+boto3
+tensorflow
+numpy
+bytes
+pyqt5
+uvicorn
