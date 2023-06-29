@@ -1,25 +1,19 @@
 # Rice-leaf-disease-detection
-
 Rice Leaf Disease Detection is an innovative project aimed at automating the identification and classification of diseases affecting rice plants. By harnessing the capabilities of computer vision and deep learning algorithms, this project provides an efficient and accurate solution for detecting and managing diseases in rice crops.
 
 
-
 # About
-
 This project provides a solution for automated detection and classification of diseases affecting rice plants using computer vision and deep learning techniques. It includes source code for the backend using FastAPI and TensorFlow, as well as a PyQT-based frontend for user interaction.
 
 
-
 # Features
-
 Automatic detection and classification of rice leaf diseases
 Pretrained deep learning model for accurate predictions
 User-friendly frontend using PyQT for capturing and uploading leaf images
 Real-time disease predictions with confidence scores
 
 
-# INSTALLATION
-
+# Installation
 Clone the repository
 git clone https://github.com/kavinkunarkavin/rice-leaf-disease-detection.git
 
@@ -39,21 +33,18 @@ python frontend.py
 
 
 # USAGE
-
 Open the frontend application.
 Capture or upload an image of a rice leaf.
 Click the "Predict" button to initiate disease detection.
 View the predicted class and confidence score for the detected disease.
 
 
-
-# Dataset Links:
+# Dataset Link:
 https://www.kaggle.com/datasets/shayanriyaz/riceleafs
 
 
 # Acknowledgments
 Special thanks to the developers and contributors of FastAPI, TensorFlow, and PyQT for their invaluable libraries and tools.
-
 
 
 # Contributions
@@ -70,9 +61,4 @@ Special thanks to the developers and contributors of FastAPI, TensorFlow, and Py
 # Contact
 For any inquiries or questions, please contact kavin11112003@gmail.com.
 
-
-
-
-
-
-
+Please note that this project is not actively maintained, but your feedback is still highly appreciated.
